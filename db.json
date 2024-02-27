@@ -1,13 +1,12 @@
-{
-  "gambits": [
-    { "id": "1", "titre": "Gambit de la Dame", "image": "https://cdn.discordapp.com/attachments/577543810855206912/1211784761098502195/264x298.png?ex=65ef7580&is=65dd0080&hm=17e87b2257c827d9747fbc3310c9b779560baf1e226791f02b02ea100ae45947&" },
-    { "id": "2", "titre": "Gambit du Roi", "image": "https://cdn.discordapp.com/attachments/577543810855206912/1211784761098502195/264x298.png?ex=65ef7580&is=65dd0080&hm=17e87b2257c827d9747fbc3310c9b779560baf1e226791f02b02ea100ae45947&" }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "titre": "Gambit de la Dame",
+    "image": "lien",
+    "lien": "wikipedia"
+  },
+    {
+    "titre": "Gambit du Roi",
+    "image": "lien2",
+    "lien": "wikipedia"
+  },
+]
